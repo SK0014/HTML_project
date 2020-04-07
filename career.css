@@ -1,0 +1,44 @@
+#CAREER{
+    padding: 20px;
+}
+.tl{
+    width:100%;
+    background-color: #000000d5;
+    padding: 2px;
+    border-radius: 25px;
+    
+}
+.hN{
+    width: max-content;
+    font-family:'Heebo',sans-serif;
+    padding-left: 50px;
+ font-size:60px;
+ font-weight:100;
+ letter-spacing:.1em;
+ line-height:1em;
+ color:yellow;
+}
+.offer{
+    width: 100%;
+    border-top: 3px solid grey;
+    padding-left: 50px;
+}
+.offer:hover{
+    border-bottom: 3px dashed yellow;
+}
+.placesmall{
+    font-size: 19px;
+    color: white;
+}
+.postbig{
+    font-size: 34px;
+    color: white;
+}
+.postbig:hover{
+    color: rgba(255, 255, 0, 0.623);
+}
+.dismedium{
+    font-size: 24px;
+    font-weight: 200;
+    color: white;
+}

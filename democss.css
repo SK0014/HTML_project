@@ -1,0 +1,30 @@
+.head1 { 
+    font-size:40px; 
+    color: yellow; 
+    font-weight:bold; 
+} 
+.head2 { 
+    font-size:17px; 
+    margin-left:10px; 
+    margin-bottom:15px; 
+    font-family:'Segoe UI',Arial,sans-serif;
+    color: whitesmoke;
+} 
+.menu1{    
+    position: sticky; 
+    top: 0; 
+    background-color: rgb(18, 18, 18); 
+    padding:10px 0px 10px 0px; 
+    border-top: yellow;
+    color:yellow; 
+    margin: 0 auto; 
+    overflow: hidden; 
+} 
+.menu a { 
+    float: left; 
+    color: white; 
+    text-align: center; 
+    padding: 14px 16px; 
+    text-decoration: none; 
+    font-size: 20px; 
+} 
